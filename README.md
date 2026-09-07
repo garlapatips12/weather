@@ -62,4 +62,10 @@ Example API request:
 
 ```text
 https://api.shecodes.io/weather/v1/current
-
+## Project Structure
+weather/
+│
+├── README.md
+├── index.html
+├── index.js
+└── styles.css
